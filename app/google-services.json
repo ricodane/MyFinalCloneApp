@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958207088134",
+    "firebase_url": "https://orderingappclone.firebaseio.com",
+    "project_id": "orderingappclone",
+    "storage_bucket": "orderingappclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958207088134:android:c7ce1da5e9b842a0ecd587",
+        "android_client_info": {
+          "package_name": "ph.edu.uic.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958207088134-1330sarts95samkm8k1bgn7lfj2roalm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ph.edu.uic.foodapp",
+            "certificate_hash": "5692c2dbfac5aa9746971310b54058d3c6cb7935"
+          }
+        },
+        {
+          "client_id": "958207088134-29ol8mad8isbbpshri4kp8tib0mqnr76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVVo22EhD_Hu87-CeseJ9SCWoOtvDVsis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958207088134-29ol8mad8isbbpshri4kp8tib0mqnr76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
