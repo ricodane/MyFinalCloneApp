@@ -29,10 +29,10 @@ public class MainActivity extends AppCompatActivity {
 
         popularFoodList.add(new PopularFood("Kikiam", "₱10.00", R.drawable.popularfood1));
         popularFoodList.add(new PopularFood("Qwek qwek", "₱15.00", R.drawable.popularfood2));
-        popularFoodList.add(new PopularFood("Fish Ball", "₱8.05", R.drawable.popularfood3));
+        popularFoodList.add(new PopularFood("Fish Ball", "₱8.50", R.drawable.popularfood3));
         popularFoodList.add(new PopularFood("Lumpia", "₱20.00", R.drawable.popularfood4));
-        popularFoodList.add(new PopularFood("Banana Cue", "₱6.05", R.drawable.popularfood5));
-        popularFoodList.add(new PopularFood("Taco", "₱30.05", R.drawable.popularfood6));
+        popularFoodList.add(new PopularFood("Banana Cue", "₱6.75", R.drawable.popularfood5));
+        popularFoodList.add(new PopularFood("Taco", "₱35.00", R.drawable.popularfood6));
 
 
         setPopularRecycler(popularFoodList);

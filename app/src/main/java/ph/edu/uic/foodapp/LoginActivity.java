@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.content.Intent;
 
 
-public class LoginActivity extends AppCompatActivity {
+public class    LoginActivity extends AppCompatActivity {
 
     Button btnSignIn, btnSignUp;
 
